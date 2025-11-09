@@ -6,7 +6,7 @@ import psycopg2
 from datetime import date
 
 # Database connection parameters - Change where needed
-DB_NAME = "student_db" # Change this
+DB_NAME = "students_db" # Change this
 DB_USER = "postgres"
 DB_PASSWORD = "postgres"  # Change this
 DB_HOST = "localhost"
